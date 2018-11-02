@@ -1,6 +1,6 @@
 # Loop to print CGI is great
 for i in range(10):
-	print("CGI is great")
+	print("GCI is great")
 
 # ask user for name
 user_name = input("What is your name? ")
